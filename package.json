@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "framer-motion": "^7.4.0",
+    "gsap": "^3.11.2",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.1",
+    "redux": "^4.2.0",
+    "uuid": "^9.0.0"
+  }
+}
